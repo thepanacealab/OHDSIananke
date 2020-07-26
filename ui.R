@@ -1,6 +1,6 @@
 # @file functions
 #
-# Copyright 2018 Observational Health Data Sciences and Informatics
+# Copyright 2020 Observational Health Data Sciences and Informatics
 #
 # This file is part of:
 #
@@ -25,7 +25,7 @@
 #
 # @author Georgia State University - Panacea Lab
 # @author Juan M. Banda
-# @version 1.0
+# @version 2.0
 #
 # This is the user-interface definition of a Shiny web application. You can
 # run the application by clicking 'Run App' above.
@@ -46,7 +46,7 @@ shinyUI(fluidPage(
 #    ),  
   
   img(src='ananke_logo_s.jpg', align = "center"),
-  titlePanel("Ananke: UMLS to OHDSI mapping Tool"),
+  titlePanel("Ananke: UMLS/HPO to OHDSI mapping Tool"),
   
   tabsetPanel(
     tabPanel("Mapping Download", 
