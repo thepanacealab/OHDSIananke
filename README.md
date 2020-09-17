@@ -1,12 +1,21 @@
 # OHDSI Ananke - A Tool for Mapping Between OHDSI Concept Identifiers to Unified Medical Language System (UMLS) identifiers
-<table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
+<table border="0" style="outline: none;">
 <thead>
-  <tr style='border:none;'>
-    <td style='border:none;' width="30%"><img src="http://www.jmbanda.com/OHDSI_ananke_sticker.png" alt="Ananke Sticker"></td>
-    <td style='border:none;'>Ananke in Greek mythology is the personification of inevitability, compulsion, and necessity, which very well relates to the need to have the OHDSI vocabulary mapped to other available and more widely used resources, like the Unified Medical Language System (UMLS). The UMLS metathesaurus (1), contains over three million concepts and over 130 English vocabularies, the OHDSI vocabulary on the other hand covers over 70 vocabularies with many of them overlapping. While the vocabulary is the defacto standard in the OHDSI community, UMLS is widely used outside of the community for most natural language processing (NLP) tools and tasks. This software  bridges the gaps between the communities, allowing for the previously impossible interoperability between tools.</td>
+  <tr style='border:none !important; '>
+    <td style='border:none !important;' width="30%"><img src="http://www.jmbanda.com/OHDSI_ananke_sticker.png" alt="Ananke Sticker"></td>
+    <td style='border:none !important;'>Ananke in Greek mythology is the personification of inevitability, compulsion, and necessity, which very well relates to the need to have the OHDSI vocabulary mapped to other available and more widely used resources, like the Unified Medical Language System (UMLS). The UMLS metathesaurus (1), contains over three million concepts and over 130 English vocabularies, the OHDSI vocabulary on the other hand covers over 70 vocabularies with many of them overlapping. While the vocabulary is the defacto standard in the OHDSI community, UMLS is widely used outside of the community for most natural language processing (NLP) tools and tasks. This software  bridges the gaps between the communities, allowing for the previously impossible interoperability between tools.</td>
   </tr>
 </thead>
 </table>
+
+<div style="display: table; width: 100%; border:none; background-color:white; outline: none;">
+	<div style="display: table-row-group;">
+		<div style="display: table-row;">
+			<div style="display: table-cell;"><img src="http://www.jmbanda.com/OHDSI_ananke_sticker.png" width="10%" alt="Ananke Sticker"></div>
+			<div style="display: table-cell;">Ananke in Greek mythology is the personification of inevitability, compulsion, and necessity, which very well relates to the need to have the OHDSI vocabulary mapped to other available and more widely used resources, like the Unified Medical Language System (UMLS). The UMLS metathesaurus (1), contains over three million concepts and over 130 English vocabularies, the OHDSI vocabulary on the other hand covers over 70 vocabularies with many of them overlapping. While the vocabulary is the defacto standard in the OHDSI community, UMLS is widely used outside of the community for most natural language processing (NLP) tools and tasks. This software  bridges the gaps between the communities, allowing for the previously impossible interoperability between tools.</div>
+		</div>
+	</div>
+</div>
 
 ## OHDSI2UMLS Mappings
 
