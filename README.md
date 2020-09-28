@@ -20,3 +20,4 @@ This version has been submitted to the 2020 OHDSI Symposium and it is currently 
 
 Download the raw SQL File to generate Version 2 mappings [here](source_queries/cui2ohdsi_concept_idv2.0.sql).
 Download the raw SQL File to generate the HPO mappings [here](source_queries/HPO2OMOP_v1.0.sql).
+
